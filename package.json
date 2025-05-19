@@ -1,0 +1,29 @@
+{
+  "name": "cadastro-de-livros-favoritos",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node app.mjs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/withlovesah/Cadastro-de-Livros-Favoritos.git"
+  },
+  "keywords": [
+    "javascript",
+    "HTTP",
+    "Node"
+  ],
+  "author": "Sara Silva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/withlovesah/Cadastro-de-Livros-Favoritos/issues"
+  },
+  "homepage": "https://github.com/withlovesah/Cadastro-de-Livros-Favoritos#readme",
+  "description": "App pode ser organizado por categorias básicas os seus livros favoritos",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
